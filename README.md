@@ -11,11 +11,34 @@
 🎓 **Hub Educativo**: xdsnOS trascende i confini dell'apprendimento. Condividiamo conoscenze e risorse preziose, aprendo le porte dell'educazione a una comunità globale. 📚
 
 💡 **$DSN e XDSN**: Nato dalla rete Polygon, $DSN si evolve in XDSN attraverso una fork di Duino-Coin, ampliando le possibilità del mining decentralizzato e dell'innovazione blockchain. Preparati a un'esperienza di mining senza precedenti, accessibile a tutti e personalizzabile per ogni esigenza. 💻
-  
 
-| Key features | Technical specifications | (Some of many) supported boards |
-|-|-|-|
-| 💻 Supported by a large number of platforms<br>👥 A fast-growing community<br>💱 Easy to use & exchange<br>(on DUCO Exchange, JustSwap, SushiSwap)<br>🌎 Available everywhere<br>:new: Fully original & open-source project<br>🌳 Beginner & eco-friendly<br>💰 Cost-effective & easy to mine | ⚒️ Algorithm: DUCO-S1<br>♐ Rewards: supported by "Kolka system"<br>helping to reward miners fairly<br>⚡ Transaction time: Instant<br>🪙 Coin supply: Infinite<br>(with burning)<br>🔤 Ticker: DUCO (ᕲ)<br>🔢 Decimals: upto 20 | 
+💻 Supportato da un gran numero di piattaforme
+👥 Una comunità in rapida crescita
+💱 Facile da usare e scambiare
+(su DUCO Exchange, JustSwap, SushiSwap)
+🌎 Disponibile ovunque
+🆕 Progetto completamente originale e open source
+🌳 Principiante ed ecologico
+💰 Conveniente e facile da estrarre
+⚒️ Algoritmo: DUCO-S1
+♐ Premi: supportato dal "sistema Kolka"
+che aiuta a ricompensare equamente i minatori
+⚡ Tempo di transazione: istantaneo
+🪙 Fornitura di monete: infinita
+(con combustione)
+🔤 Ticker: DUCO (ᕲ)
+🔢 Decimali: fino a 20
+♾️ Arduino
+(Uno, Nano, Mega, Due, Pro Mini, ecc.)
+📶 ESP8266
+(NodeMCU, Wemos, ecc.)
+📶 ESP32
+(ESP-WROOM, ESP32-CAM, ecc.)
+🍓 Raspberry Pis
+(1, 2, Zero (W/WH), 3, 4, Pico, 400)
+🍊 Orange Pis
+(Zero, Zero 2, PC, Plus, ecc.)
+⚡ Schede Teensy 4.1 
 
 ## Getting started
 
